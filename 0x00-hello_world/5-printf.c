@@ -1,8 +1,6 @@
 #include <stdio.h>
-/*
- * main- Entry Point
- *
- * Description: Code to display using printf function
+/**
+ * main - Entry
  *
  * Return: Always 0 (Success)
  */
