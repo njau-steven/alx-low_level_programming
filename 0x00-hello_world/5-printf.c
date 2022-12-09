@@ -1,7 +1,6 @@
 #include <stdio.h>
 /*
- *Code to print using printf function
- * main function void
+ * main - Entry point
  * return 0
  */
 
