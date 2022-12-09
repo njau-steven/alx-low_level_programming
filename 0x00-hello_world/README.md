@@ -1,1 +1,1 @@
-Change exectable name
+Script to generate assembly code
