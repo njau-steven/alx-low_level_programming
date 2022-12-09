@@ -1,4 +1,9 @@
 #include <stdio.h>
+/**
+ * Code to print using
+ * puts() function
+ *returns void
+ */
 
 int main(void)
 {
