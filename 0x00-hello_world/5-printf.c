@@ -1,7 +1,9 @@
 #include <stdio.h>
 /*
  * main function void - Entry point
+ *
  * Description: Code to display using printf function
+ *
  * return: Always 0 (Success)
  */
 int main(void)
