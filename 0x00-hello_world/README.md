@@ -1,1 +1,1 @@
-Script to save a file in c
+Compile withou linking 
