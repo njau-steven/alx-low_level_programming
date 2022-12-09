@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /*
  * main function void - Entry point
  * return 0
