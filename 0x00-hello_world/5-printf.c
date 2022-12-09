@@ -1,10 +1,10 @@
 #include <stdio.h>
 /*
- * main function void - Entry point
+ * main- Entry Point
  *
  * Description: Code to display using printf function
  *
- * return: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
