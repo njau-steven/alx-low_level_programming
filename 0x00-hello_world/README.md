@@ -1,1 +1,1 @@
-Compile withou linking 
+Generate assembly code
