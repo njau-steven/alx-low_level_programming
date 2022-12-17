@@ -17,7 +17,8 @@ int convert_day(int month, int day)
 			break;
 		case 3:
 			day = 59 + day;
-			break;								        case 4:
+			break;
+		case 4:
 			day = 90 + day;
 			break;
 		case 5:
@@ -45,6 +46,7 @@ int convert_day(int month, int day)
 			day = 334 + day;
 			break;
 		default:
-			break;								        }
-	        return (day);
+			break;
+	}
+	return (day);
 }
