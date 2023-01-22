@@ -1,0 +1,13 @@
+#include <stdlib.h>
+/**
+ * print_name - function that prints name
+ * @name: argument
+ * @f: function printer
+ * Return: Always 0
+ */
+void print_name(char *name, void (*f)(char *))
+{
+	if (name == NULL || f == NULL)
+		return;
+	f(name);
+}
